@@ -1,1 +1,3 @@
-# team-collab-practice
+# 团队协作练习项目
+
+请每位成员在 members/ 下添加自己的个人介绍文件，提交 PR。
